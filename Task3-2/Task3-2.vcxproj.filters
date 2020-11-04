@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AStart.cpp">
+    <ClCompile Include="H:\师大\个人\课程\人工智能\take three\BFS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
